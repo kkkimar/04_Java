@@ -103,7 +103,7 @@ public class SetService {
 		// 5. void clear() : Set에 저장된 내용 모두 삭제
 		set.clear();
 		
-		//6. boolean isEmpty() : 비엉ㅆ으면 true, 아니면 false
+		//6. boolean isEmpty() : 비었으면 true, 아니면 false
 		System.out.println("비어있음>> :" + set.isEmpty());
 		
 	}//method1
