@@ -7,8 +7,8 @@ public class ObjectRun {
 	public static void main(String[] args) {
 		
 		ObjectService service = new ObjectService();
-		service.objectOutput();
-		//service.objectInput();
+		//service.objectOutput();
+		service.objectInput();
 	}
 	
 }
